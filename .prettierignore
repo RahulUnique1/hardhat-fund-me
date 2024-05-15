@@ -1,0 +1,15 @@
+node_modules
+.env
+img
+package.json
+/cache
+/artifacts
+/typechain
+/typechain-types
+/coverage
+/coverage.json
+ignition/deployments/chain-31337
+.*
+README.md
+gas-report.txt
+.vscode
